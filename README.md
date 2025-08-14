@@ -26,7 +26,7 @@ i.) Send your MC lmao no shit
 i.) Participation and Individual Presentation --> Individual --> 30%  
   ia.) - Class Participation --> 15%  
   ib.) - Individual Presentation on Team Project --> 15%  
-ii.) Assignment ***Mid-term small group project*** --> Team --> 10%  
-iii.) Project ***Final Group Project*** --> Team --> 30%  
-iv.) Computer Based Assessment ***Take-home exam*** --> Individual --> 30%  
+ii.) Assignment (***Mid-term small group project***) --> Team --> 10%  
+iii.) Project (***Final Group Project***) --> Team --> 30%  
+iv.) Computer Based Assessment (***Take-home exam***) --> Individual --> 30%  
 
