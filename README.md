@@ -30,3 +30,6 @@ ii.) Assignment (***Mid-term small group project***) --> Team --> 10%
 iii.) Project (***Final Group Project***) --> Team --> 30%  
 iv.) Computer Based Assessment (***Take-home exam***) --> Individual --> 30%  
 
+## Typical Grading Curve
+Competitive tp get A or A+ due tp cap on proportion of As and A+
+
