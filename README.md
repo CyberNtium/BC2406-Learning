@@ -19,5 +19,6 @@ i.) Quick review of key concepts via Quiz ***(ungraded)*** and clarifications in
 ii.) Discuss your answers to exercises/case analysis  
 iii.) Advanced exercises  
 
-## Extra Resources
-i.) 
+## If Absent
+i.) Send your MC lmao no shit  
+
