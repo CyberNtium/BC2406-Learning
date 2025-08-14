@@ -1,12 +1,14 @@
 # BC2406-Learning
 
-# Features
+## Features
 i.) Business Focus  
 ii.) Concepts Driven  
 iii.) Can talk and do  
 iv.) Stats and Scripting  
 
-## Learning
+## Active Reinforced Learning
 i.) Pre-class Readings/Videos - Complete all main textbooks chapters + watch videos before each class  
-ii.) Pre-class Exercises  
-iii.) In-class Learning Activities - 
+ii.) Pre-class Exercises - **Try** to finish as much as possible  
+iii.) In-class Learning Activities - Stuff
+
+
