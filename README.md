@@ -11,4 +11,6 @@ i.) Pre-class Readings/Videos - Complete all main textbooks chapters + watch vid
 ii.) Pre-class Exercises - **Try** to finish as much as possible  
 iii.) In-class Learning Activities - Stuff
 
+## Main Textbook
+Chew C.H. (2021). Artificial Intelligence, TODO
 
