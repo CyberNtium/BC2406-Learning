@@ -24,8 +24,8 @@ i.) Send your MC lmao no shit
 
 ## Assessment Components
 i.) Participation and Individual Presentation --> Individual --> 30%  
-&nbsp;ia.) - Class Participation --> 15%  
-&nbsp;ib.) - Individual Presentation on Team Project --> 15%  
+&nbsp;&nbsp;ia.) - Class Participation --> 15%  
+&nbsp;&nbsp;ib.) - Individual Presentation on Team Project --> 15%  
 ii.) Assignment (***Mid-term small group project***) --> Team --> 10%  
 iii.) Project (***Final Group Project***) --> Team --> 30%  
 iv.) Computer Based Assessment (***Take-home exam***) --> Individual --> 30%  
