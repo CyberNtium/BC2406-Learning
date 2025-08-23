@@ -18,4 +18,5 @@ Visualization at most show the relationship between 3 variables, preferably 2.
 <img width="527" height="415" alt="image" src="https://github.com/user-attachments/assets/17c7eac7-a6c3-481e-8f52-7f299f4de902" />
 
 
-Given that we are required to see what affects the sales of Amazon, there are definitely more than 3 variables, including price, shipping fee, consumer reviews, discount rate, return policy, competitors and etc.
+Given that we are required to see what affects the sales of Amazon, there are definitely more than 3 variables, including price, shipping fee, consumer reviews, discount rate, return policy, competitors and etc.  
+Thus, it is impossible to visualize all of these variables in our pathetic 3 dimensional space. :(
