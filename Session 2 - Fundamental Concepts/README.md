@@ -8,7 +8,7 @@
 - Requires minimal training
 
 ### But is it okay to just depend on visualization? 
-## NO
+## Obviously no, but why?
 Visualization at most show the relationship between 3 variables, preferably 2.  
 
 3 Variables  
