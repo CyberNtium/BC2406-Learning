@@ -19,7 +19,7 @@ Visualization at most show the relationship between 3 variables, preferably 2.
 
 
 Given that we are required to see what affects the sales of Amazon, there are definitely more than 3 variables, including price, shipping fee, consumer reviews, discount rate, return policy, competitors and etc.  
-Thus, it is impossible to visualize all of these variables in our pathetic 3 dimensional space. :(
+Thus, it is impossible to visualize all of these variables in our pathetic 3 dimensional space. :(  
 This is where analytics models come into play.
 
 ## Analytics Models
