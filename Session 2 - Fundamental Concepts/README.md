@@ -23,3 +23,15 @@ Thus, it is impossible to visualize all of these variables in our pathetic 3 dim
 This is where analytics models come into play.
 
 ## Analytics Models
+Analytics Models are mathematical expressions, or representations of a system that provides insight in the form of prediction from raw data.  
+The most common example would be the famous Linear Regression.  
+
+### Linear Regression 
+<img width="563" height="367" alt="image" src="https://github.com/user-attachments/assets/f6185857-abc8-4250-9492-258fb41caad9" />
+Of course, fundamentally, linear regression is still just a statistical model. It shows the relationship between the independant variables and the dependant variables. (we will get into more in Session 6)  
+But, together with the aid of visualization, we get the best of both worlds. Analytics model in the form of the linear regression line, and visualization in the form of the scatterplot.  
+
+### Conclusion? Analytics Models vs Visualization
+It is impossible to seperate the two. Best to work with both!  
+(P.S. I can't find an image that doesn't look like the cooperate Google slop infographics. So just imagine more scatterplots and regression lines)
+
